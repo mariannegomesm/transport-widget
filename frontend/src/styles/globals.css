@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+:root{
+  --color-white: #ffffff;
+  --color-black: #000000;
+  --color-purple: #864293;
+  --color-purple-light: #F5EDF7;
+  --color-purple-light-secondary: #E5D8EA;
+  --color-gray: #372D3B;
+  --color-background: #242424
+}
+
+body, input {
+  font-family: "Inter", sans-serif;
+}
+
+body{
+  background-color: var(--color-background);
+}
