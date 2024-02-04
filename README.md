@@ -1,7 +1,7 @@
 # transport-widget-next
 
 #### Sobre:
-Construindo um componente de card de transporte, de acordo com o projeto #boraCodar da Rocketseat 🚗
+Construindo um componente de card de transporte, de acordo com o projeto #boraCodar da Rocketseat 🚗 
 
 ## 
 
